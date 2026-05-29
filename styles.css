@@ -292,10 +292,10 @@ section h2 {
 
 .stadium-image {
     width: 100%;
-    height: 180px;
+    height: 250px;
     object-fit: cover;
     border-radius: 8px;
-    margin-bottom: 12px;
+    margin-bottom: 15px;
 }
 
 .stadium-card h4 {
